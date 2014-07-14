@@ -1,0 +1,12 @@
+--2014-07-13 20:50:52--  http://iwarksns.herokuapp.com/assets/study3-19a2cebfc168b4f8b6a5fd786c7bc14b.jpg
+Resolving iwarksns.herokuapp.com... 54.225.145.230
+Connecting to iwarksns.herokuapp.com|54.225.145.230|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 99202 (97K) [image/jpeg]
+Saving to: 'study3-19a2cebfc168b4f8b6a5fd786c7bc14b.jpg'
+
+     0K .......... .......... .......... .......... .......... 51% 22.4K 2s
+    50K .......... .......... .......... .......... ......    100% 43.8K=3.3s
+
+2014-07-13 20:51:06 (29.4 KB/s) - 'study3-19a2cebfc168b4f8b6a5fd786c7bc14b.jpg' saved [99202/99202]
+
