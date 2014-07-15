@@ -1,0 +1,10 @@
+/* Amelia
+ * Bootswatch
+ *= require_self
+ *= require amelia/loader
+ *= require amelia/bootswatch
+*/
+
+.friend-row{
+    margin-bottom: 10px;
+}

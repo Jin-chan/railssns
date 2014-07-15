@@ -45,3 +45,9 @@ group :development do
   gem 'better_errors'            # 見やすいエラー画面
   gem 'annotate'                 # モデルでわかりやすいコメントの作成
 end
+
+# Twitter Bootstrap
+gem 'twitter-bootswatch-rails', '~> 3.1.1'
+gem 'twitter-bootswatch-rails-helpers'
+gem 'therubyracer'
+gem "less-rails" #Sprockets (what Rails 3.1 uses for its asset pipeline) supports LESS
