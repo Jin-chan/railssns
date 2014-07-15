@@ -4,11 +4,11 @@ set :stage, :production
 set :branch, "master"
 # the user login on the remote server
 # used to connect and deploy
-set :deploy_user, "jinrow"
+set :deploy_user, "Jinrow"
 # the 'full name' of the application
 set :full_app_name, "#{fetch(:application)}_#{fetch(:stage)}"
 # the server(s) to deploy to
-server 'jinrow.cloudapp.net', user: 'jinrow', roles: %w{web app db}, primary: true
+server 'jinrow.cloudapp.net', user: 'JinrowMaker', roles: %w{web app db}, primary: true
 # the path to deploy to
 set :deploy_to, "/home/#{fetch(:deploy_user)}/apps/#{fetch(:full_app_name)}"
 # set to production for Rails
